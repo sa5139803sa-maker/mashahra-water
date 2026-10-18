@@ -1,0 +1,6 @@
+{
+  "name": "إدارة الغاطس",
+  "description": "تطبيق متطور لتنظيم مؤقتات تشغيل الغاطس للمشتركين مع التقارير والتوليد المتوازن لجدول المياه الأسبوعي ودعم الاستيراد والتصدير إلى Excel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
